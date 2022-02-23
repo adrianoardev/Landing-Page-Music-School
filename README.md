@@ -1,3 +1,3 @@
 # Landing-Page-Music-School
 
-Landing Page feita a partir de aulas assistidas em HTML e CSS
+Landing Page criada após aulas e treinamentos em HTML e CSS
