@@ -2,7 +2,7 @@
 
 Landing Page criada após aulas e treinamentos em HTML e CSS
 
-<strong>Imagem do Projeto </strong>  - <a href="https://adrianoardev.github.io/Clone-Spotify/">Link do projeto</a>
+<strong>Imagem do Projeto </strong>  - <a href="https://adrianoardev.github.io/Landing-Page-Music-School/">Link do projeto</a>
 
 
  <div align="left">    
